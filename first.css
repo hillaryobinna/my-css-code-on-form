@@ -1,0 +1,96 @@
+*{
+    padding: o;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+display: flex;
+width: auto;
+background-color: aquamarine;
+
+}
+#contact{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    color: blue;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    
+    
+}
+.first{
+    width: 500px;
+    border: 5px solid;
+    margin: 20px;
+    border-radius: 20px;
+    background-color: aquamarine;
+    float: left;
+    padding: 10px;
+
+
+}
+#last{
+    width: 500px;
+    float: right;
+    margin: 30px solid;
+    border: 5px solid;
+    border-radius: 30px;
+    float: right;
+    padding: 10px;
+
+}
+#clear{
+    clear: both;
+}
+#email{
+    padding: 10px;
+    border: 10px 20px;
+    border-radius: 30px;
+    text-align: center;
+
+}
+#clear2{
+    clear: both;
+}
+#rado{
+    padding: 20px;
+    margin: 10px;
+    border: solid ;
+    border-radius: 20px;
+    text-align: center;
+    
+}
+#text{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+
+}
+#text textarea{
+    border-radius: 30px;
+}
+#submit{
+    text-align: center;
+}
+#check{
+
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style: italic;
+    font-weight: bold;
+}
+#foot{
+    padding: 10px;
+    margin: 20px;
+    text-align: right;
+    font-style: italic;
+    font-weight: bolder;
+}

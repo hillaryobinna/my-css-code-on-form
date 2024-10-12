@@ -1,0 +1,157 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.container{
+    width: 70%;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+    border: 1px solid;
+    border-radius: 8px;
+    
+}
+
+body{
+    background-color: azure;
+}
+.contact{
+    padding: 20px 0px 20px 20px;
+    display: flex;
+    gap: 4px;
+    flex-direction: column;
+
+}
+.fullname{
+    display: flex;
+    gap: 4px;
+
+}
+.first{
+    color: brown;
+    width: 100%;
+    display: flex;
+    gap: 4px;
+    flex-direction: column;
+    padding: 20px;
+
+}
+.last{
+    color: brown;
+    width: 100%;
+    display: flex;
+    gap: 4px;
+    flex-direction: column;
+    padding: 20px;
+}
+ .first input{
+    border: 1px solid brown;
+    height: 30px;
+    border-radius: 5px;
+ }
+ .last input{
+    border: 1px solid brown;
+    height: 30px;
+    border-radius: 5px;
+ }
+ .mail{ color: brown;
+    width: 100%;
+    display: flex;
+    gap: 4px;
+    flex-direction: column;
+    padding: 20px;
+
+ }
+ .mail input{
+    border: 1px solid brown;
+    height: 30px;
+    border-radius: 5px;
+ }
+
+ .spa{
+    gap: 4px;
+    padding: 20px;
+    width: 100%;
+    color: brown;
+
+ }
+ .type{
+    display: flex;
+    gap: 5px;
+    margin-left: 15px;
+    
+
+ }
+ .QUERY{
+    color: brown;
+    width: 100%;
+    gap: 4px;
+    flex-direction: column;
+    padding: 20px;
+    border: 1px solid brown;
+    border-radius: 20px;
+
+ }
+ .QUE{
+    color: brown;
+    width: 100%;
+    gap: 4px;
+    flex-direction: column;
+    padding: 20px;
+    border: 1px solid brown;
+    border-radius: 20px;
+    margin: 0px 0px 0px 20px;
+ }
+ .message{
+    display: flex;
+    gap: 4px;
+    flex-direction: column;
+    width: 100%;
+    padding: 20px;
+    color: brown;
+
+ }
+ .message textarea{
+    gap: 4px;
+    flex-direction: column;
+    width: 100%;
+    height: 100px;
+    color: brown;
+    border-radius: 20px;
+    border-color: brown;
+
+ }
+ .message span{
+    padding: 10px;
+ }
+ .box{
+
+    gap: 10px;
+    color: brown;
+    
+    margin: 25px 0px 25px 25px;
+ }
+ .box span{
+    padding-left: 20px;
+ }
+ .submit{
+    text-align: center;
+    background-color: darkgreen;
+    height: 50px;
+    border-radius: 15px;
+    padding: 20px;
+    width: 100%;
+    
+ }
+ .submit span{
+    font-size: large;
+    color: white;
+    text-align: center;
+
+
+ }
+
+
+ 

@@ -1,0 +1,45 @@
+
+.tittle{
+    text-align: right;
+    font-size: x-large;
+    font-weight: bold;
+    color: blueviolet;
+    line-height:40px;
+    padding: 0px 25% 0px 0px;
+
+}
+#sction{
+    text-align: left;
+    font-size:x-large;
+    color: blue;
+    font-weight: bold;
+    padding: 20px 30px 10px 15%;
+
+}
+.para{
+    padding: 0px 24%;
+    line-height: 20px;
+    color:rgba(74, 8, 197, 0.853);
+    font-size: x-large;
+    font-weight: bold;
+}
+footer{
+    text-decoration: underline;
+    text-decoration-color: blue;
+    font-size: x-large;
+    text-align: center;
+    color: rgb(74, 8, 197, 0.853);
+}
+.main{
+    width: 1400px;
+    border: 5px solid;
+    border-radius: 30px;
+    border-color: chartreuse;
+    background-image: url(img/Snapchat-1396876843.jpg);
+    background-size: cover;
+    
+    
+    
+    
+}
+
